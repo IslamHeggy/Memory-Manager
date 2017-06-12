@@ -1,0 +1,24 @@
+
+
+
+	     	     !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+	     	     !!                                                             !!
+	     	     !!                   !! FCIS says HELLO !!                     !!
+	     	     !!                                                             !!
+	     	     !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+
+
+
+Physical memory: 32768K available, base = 640K, extended = 31744K
+Max Envs = 1285
+check_boot_pgdir() succeeded!
+
+Welcome to the FOS kernel command prompt!
+Type 'help' for a list of commands.
+FOS> rsrtst3tst3functions
+Virtual Address= c0000000 , Physical Address=1ffa000 
+Frame Number= 1ffa 
+Virtual Address= c0000000 , Physical Address=1ffa000 
+Virtual Address= c0001000 , Physical Address=1ff9000 
+Frame Number= 1ff9 

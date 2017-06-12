@@ -1,0 +1,283 @@
+  207  git remote add origin https://islamheggy@bitbucket.org/islamheggy/os-project.git
+  208  git init
+  209  git remote add origin https://islamheggy@bitbucket.org/islamheggy/os-project.git
+  210  git push -u origin master
+  211  git push -u origin master
+  212  git push -u origin master
+  214  git add .
+  215  git commit -m "OS_Project_Start "
+  216  man git
+  217  git commit -m "OS_Project_Start"
+  218    git config --global user.email "you@example.com"
+  219  man git 
+  220  git config --global user.email "islam.heggy@gmail.com"
+  221  git config --global user.name "Your Name"
+  222  git config --global user.name "Islam Heggy"
+  223  git commit -m "OS_Project_Start"
+  224  git push
+  225  git push master
+  226  git push "OS Project"
+  227  git push OS Project
+  229  git push OS Project
+  230  git push
+  231  git push 'OS Project'
+  232  git push "OS Project"
+  235  git push "OS Project"
+  236    git config --global push.default matching
+  237    git config --global push.default OS Project
+  238  git push "OS Project"
+  239    git config --global push.default "OS Project"
+  240    git config --global push.default --replace-a;;  "OS Project"
+  241    git config --global push.default --replace-all  "OS Project"
+  242  git push "OS Project"
+  243  less /home/islam/.gitconfig
+  244  nano /home/islam/.gitconfig
+  245  nano /home/islam/.gitconfig
+  246  git push "OS Project"
+  248  git push
+  249  gedit /home/islam/.gitconfig
+  250  git push
+  251  git push "OS Project"
+  252  git push OS
+  253  sudo git push OS
+  254  git config --global push.default simple
+  255  sudo git push OS
+  256  git push OS
+  258  git push
+  259      git push --set-upstream origin master
+  260  git push master
+  261      git push --set-upstream master master
+  262      git push --set-upstream master master
+  263  git push origin master -u
+  265  gedit /home/islam/.gitconfig
+  266  history | grep git remote
+  267  history | grep "git remote"
+  269  git-shell 
+  270  git remote set-url origin https://islamheggy@bitbucket.org/islamheggy/os-project.git
+  272  git remote set-url origin https://islamheggy@bitbucket.org/islamheggy/os-project.git
+  273  git push origin master -u
+  274  git remote set -url https://bitbucket.org/islamheggy/os-project.git
+  275  git remote set -url origin https://bitbucket.org/islamheggy/os-project.git
+  276  git remote set -url origin https://islamheggy@bitbucket.org/islamheggy/os.git
+  277  git remote set-url origin https://islamheggy@bitbucket.org/islamheggy/os.git
+  278  git push origin master -u
+  279  git push origin master -u
+  280  git push origin master -u
+  281  man git 
+  282  man git push
+  283  git branch
+  284  git branch kmalloc
+  285  git branch
+  286  git push origin kmalloc
+  287  git add .
+  288  git commit -m "Kmalloc function"
+  289  git push 
+  290  git push origin kmalloc 
+  291  git revert 9f3ffed
+  292  git revert 9f3ffed
+  293  git push
+  294  git pull
+  295  git pull
+  296  git add .
+  297  git commit -m "Kmalloc Function"
+  298  git push origin kmalloc 
+  299  git pull origin master
+  300  git pull origin kmalloc
+  301  git reset --hard
+  302  git reset --hard 79cfd76
+  303  git reset --hard 79cfd76
+  304  git reset --hard
+  305  git push 
+  306  git pull
+  307  git add .
+  308  git commit -c "Kmalloc Function"
+  309  git branches
+  310  git branche
+  311  git branch
+  312  git commit -c "Kmalloc Function"
+  313  git status
+  314  git push kmalloc
+  315  git branch
+  316  git init
+  317  git remote add origin https://islamheggy@bitbucket.org/islamheggy/os-project.git
+  318  git add .
+  319  git commit -m "Project Start"
+  320  git push 
+  321      git push --set-upstream origin master
+  322      git push --set-upstream origin master
+  323      git push --set-upstream origin master
+  324  git branch kmalloc
+  325  git checkout kmalloc 
+  326  git add . 
+  327  git commit -c "Kmalloc Function added"
+  328  git push kmalloc
+  329      git push --set-upstream kmalloc kmalloc
+  330  git remote set-url origin https://islamheggy@bitbucket.org/islamheggy/os-project.git
+  331      git push --set-upstream kmalloc kmalloc
+  332  git push 
+  333      git push --set-upstream origin kmalloc
+  334      git push --set-upstream origin kmalloc
+  335  git push kmalloc
+  336  git add . 
+  337  git init 
+  338  git remote add origin https://islamheggy@bitbucket.org/islamheggy/os-project.git
+  339  git add .
+  340  git commit -m "malloc function"
+  341  git checkout kmalloc
+  342  git branch
+  343  git branch kmalloc
+  344  git checkout kmalloc
+  345  git push
+  346      git push --set-upstream origin kmalloc
+  347  git pull
+  348  git config 
+  349  git config --global user.name "Islam Heggy"
+  350  git config --global user.email "islam.heggy@gmail.com"
+  351  git config --list
+  352  git help commit
+  353  git-shell 
+  354  git --version
+  355  git init
+  356  git status
+  357  git add .
+  358  git status
+  359  git -commit "Project start"
+  360  git commit -m "Project start"
+  361  git remote -c
+  362  git remote -v
+  363  git branch -a
+  364  git remote add origin https://islamheggy@bitbucket.org/islamheggy/os-project.git
+  365  git help push
+  366  git diff
+  367  git push
+  368      git push --set-upstream origin master
+  369  git status
+  370  git pull origin master
+  371  git branch kmalloc
+  372  git checkout kmalloc 
+  373  git branch
+  374  git status
+  375  git add -A
+  376  git commit -m "malloc Function"
+  377  git push -u origin kmalloc
+  378  git branch -a
+  379  git checkout master
+  381  git pull origin master
+  382  git merge kmalloc 
+  383  git push origin master 
+  384  git status
+  385  git add -A 
+  386  git status 
+  387  git reset
+  388  git checkout kmalloc 
+  389  git status 
+  390  git add -A 
+  391  git commit -m "Missing Variable Added"
+  392  git push origin kmalloc 
+  393  git checkout master
+  394  git merge kmalloc 
+  395  git push origin master 
+  396  git status
+  397  git branch kfree
+  398  git checkout kfree
+  399  git status
+  400  git add -a
+  401  git add -A
+  402  git commit -m "kfree Function"
+  403  git push origin kfree 
+  404  git checkout master 
+  405  git merge kfree 
+  406  git push origin master 
+  408  git checkout kmalloc 
+  409  git status 
+  410  git reset
+  411  git checkout kmalloc 
+  412  git status 
+  413  git reset --hard
+  414  git branch
+  415  git checkout kmalloc
+  416  git reset --hard
+  417  git checkout kmalloc 
+  418  git add -A 
+  419  git status 
+  420  git iff
+  421  git digg
+  422  git diff
+  423  git commit -m "Struct Added"
+  424  git push origin kmalloc 
+  425  git checkout master 
+  426  git merge kmalloc 
+  427  git push origin master 
+  428  git branch "kheap virtual address'"
+  429  git branch "kheap_virtual_address"
+  430  git checkout kheap_virtual_address 
+  431  git add -A 
+  432  git commit -m "kheap virtual address function"
+  433  git push origin kheap_virtual_address 
+  434  git checkout master 
+  435  git merge kheap_virtual_address 
+  436  git push origin master 
+  437  git branch 
+  438  git branch kheap_physical_address
+  439  git checkout kheap_physical_address 
+  440  git status
+  441  git add -A 
+  442  git commit -m "Kheap Physical address function"
+  443  git push origin kheap_physical_address 
+  444  git checkout master 
+  445  git merge kheap_physical_address 
+  446  git push origin master
+  447  git branch create_user_page_WS
+  448  git checkout create_user_page_WS 
+  449  git status 
+  450  git add -A 
+  451  git commit -m ""
+  452  git commit -m "create user page ws"
+  453  git push origin create_user_page_WS 
+  454  git checkout master 
+  455  git merge create_user_page_WS 
+  456  git push origin master 
+  457  git branch create_user_directory
+  458  git checkout create_user_directory 
+  459  git status 
+  460  git add -A 
+  461  git commit -m "Create user directory Function"
+  462  git push origin create_user_directory 
+  463  git checkout master 
+  464  git merge create_user_directory 
+  465  git push origin master 
+  466  git branch create_page_table
+  467  git checkout create_page_table 
+  468  git status
+  469  git status
+  470  git add -A
+  471  git commit -m "create page table function"
+  472  git push origin create_page_table 
+  473  git checkout master
+  474  git merge create_page_table 
+  475  git push master
+  476  git push origin master
+  478  git branch 
+  479   git push origin master
+  480  git checkout create_page_table 
+  481  git push origin create_page_table 
+  482  git checkout master
+  483  git merge create_page_table 
+  484  git push origin master
+  485  history | grep "git"
+  486  git pull origin master
+  487  git branch -r
+  488  git branch -a
+  489  git fetch 
+  490  git branch 
+  491  git checkout sema
+  492  git checkout master
+  493  git branch -r
+  494  git branch -a
+  495  git checkout shit
+  496  git checkout sema
+  497  git branch -a
+  498  git branch -a
+  499  git branch 
+  500  git fetch 
+  501  history | grep "git" >> "Git Doc"
